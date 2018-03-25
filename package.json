@@ -1,0 +1,16 @@
+{
+  "name": "docker_nodejs_app",
+  "version": "1.0.0",
+  "description": "Node.js app",
+  "author": "Daiane Fraga <daiane.a.fraga@gmail.com>",
+
+  "main": "server.js",
+
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
