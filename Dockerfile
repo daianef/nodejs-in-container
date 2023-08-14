@@ -1,4 +1,4 @@
-FROM node:carbon
+FROM node:18.17.0-bookworm-slim
 
 WORKDIR /usr/src/app
 
